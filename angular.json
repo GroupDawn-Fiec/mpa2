@@ -31,17 +31,22 @@
               "src/assets/css/fontawesome.css",
               "src/assets/css/templatemo-liberty-market.css",
               "src/assets/css/owl.css",
-              "src/assets/css/animate.css"
+              "src/assets/css/animate.css",
+              "src/assets/css/flex-slider.css"
             ],
             "scripts": [
               "node_modules/bootstrap/dist/js/bootstrap.min.js",
               "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
               "src/assets/vendor/jquery/jquery.min.js",
               "src/assets/vendor/bootstrap/js/bootstrap.min.js",
+              "src/assets/vendor/jquery/jquery.js",
+              "src/assets/vendor/jquery/jquery.slim.js",
+              "src/assets/vendor/jquery/jquery.slim.min.js",
               "src/assets/js/isotope.min.js",
               "src/assets/js/owl-carousel.js",
               "src/assets/js/tabs.js",
               "src/assets/js/popup.js",
+              "src/assets/js/isotope.js",
               "src/assets/js/custom.js"
             ]
           },
